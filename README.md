@@ -1,5 +1,5 @@
 # programmable-metasurface-controller
-ChatGPT doing it's best!
+
 ```
 programmable-metasurface-controller/
 ├── src/
